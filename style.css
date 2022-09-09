@@ -1,0 +1,38 @@
+.container{
+    border: 1px solid black;
+    width: 600px;
+    margin: 100px 400px ;
+    height: 600px;
+
+}
+h1{
+    font-family: serif;
+    text-align: center;
+    background-color: violet;
+    color: black;
+    padding: 20px;
+    position: sticky;
+    top: 0px;
+}
+h4{
+    position: fixed;
+    /* background-color: aqua; */
+    font-size: xx-large;
+    margin-top: 50px;
+    box-shadow: 5px 10px 10px 5px pink inset;
+}
+.image-area{
+    /* position: relative; */
+
+}
+img{
+    width: 400px;
+    height: 400px;
+    padding: 100px;
+}
+h2{
+    position: absolute;
+    top: 300px;
+    left: 620px;
+    /* color: white; */
+}
